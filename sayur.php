@@ -96,7 +96,7 @@ $no++;
 
   <nav aria-label="Page navigation example">
   <ul class="pagination justify-content-center">
-    <li class="page-item"><a class="page-link" href="paginationdatamakanan.php">SP</a></li>
+    <li class="page-item"><a class="page-link" href="DataMakanan.php">SP</a></li>
     <li class="page-item"><a class="page-link" href="sumberhewani.php">SH</a></li>
     <li class="page-item"><a class="page-link" href="sumbernabati.php">SN</a></li>
     <li class="page-item"><a class="page-link" href="buah.php">B</a></li>
