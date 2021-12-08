@@ -26,9 +26,7 @@
               <a class="nav-link" href="Algoritma Genetika.php">Algorima Genetika</a>
             </li>
   
-            <li class="nav-item">
-              <a class="nav-link" href="Hasil.php">Hasil</a>
-            </li>
+           
           </ul>
         </div>
       </nav>
@@ -156,7 +154,7 @@
 
                    
                 <button class="btn btn-sm"  style= "background-color: rgba(158, 42, 34, 0.678)">
-                    <a  class="nav-link text-white"  href="Algoritma Genet.php">Hitung</a></button>
+                    <a  class="nav-link text-white"  href="Algoritma Genetika.php">Hitung</a></button>
               
             </form>
             
