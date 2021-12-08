@@ -25,9 +25,7 @@
               <a class="nav-link" href="Algoritma Genetika.php">Algorima Genetika</a>
             </li>
   
-            <li class="nav-item">
-              <a class="nav-link" href="Hasil.php">Hasil</a>
-            </li>
+           
           </ul>
         </div>
       </nav>
@@ -62,7 +60,7 @@
     float Umur;
     int JenisKelamin;
     float JenisAktivitas;
-    
+
     // input berat badan
     $Bb = "Inputs";
     echo "Masukkan berat badan anda (Kg): ", "\n";
@@ -172,3 +170,22 @@
     //perhitungan Kebutuhan Lemak
     $KL = (float)($Lemak * $KE / 9);
     echo "Kebutuhan Lemak anda adalah : ".strval($KL), "\n";
+
+    php?>
+
+    <!-- Akhir Perhitungan Gizi -->
+
+    <!-- Footer data -->
+    <footer class="text-white" style="background-color: rgba(158, 42, 34, 0.678)">
+      <div class="p-3">
+        <div class="text-center">
+          <h7>@Nur Asiah</h7>
+        </div>
+      </div>
+    </footer>
+    <!-- Akhir Footer data -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  </body>
+</html>
+
