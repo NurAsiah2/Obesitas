@@ -25,9 +25,7 @@
               <a class="nav-link" href="Algoritma Genetika.php">Algorima Genetika</a>
             </li>
   
-            <li class="nav-item">
-              <a class="nav-link" href="Hasil.php">Hasil</a>
-            </li>
+            
           </ul>
         </div>
       </nav>
